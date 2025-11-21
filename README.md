@@ -3,5 +3,6 @@
 
 需要安装pypdf包
 - conda、pip安装
-  ``` conda install pypdf
+  ```
+  conda install pypdf
   pip install pypdf
